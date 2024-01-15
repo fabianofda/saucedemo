@@ -1,3 +1,6 @@
+Os casos de teste planejados têm como finalidade testar as funcionalidades e garantir a qualidade do site saucedemo. Cada caso de teste específico se destina a verificar um cenário particular dentro do sistema, e a finalidade geral dos testes é garantir que o software funcione conforme o esperado, cumprindo os requisitos de negócios e fornecendo uma experiência confiável aos usuários.
+
+
 ##    Testes do projeto:
 
 ###    Cenário: Login com sucesso
