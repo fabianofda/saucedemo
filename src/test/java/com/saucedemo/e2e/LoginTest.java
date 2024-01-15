@@ -37,7 +37,7 @@ public class LoginTest extends BaseTest {
     }
 
     @Test
-    @DisplayName("Tentatica de login com usuario bloqueado")
+    @DisplayName("Tentativa de login com usuario bloqueado")
     public void loginComUsuarioBloqueado() throws Exception {
         page = new LoginPage(driver);
         users = new Users();
@@ -53,7 +53,7 @@ public class LoginTest extends BaseTest {
     }
 
     @Test
-    @DisplayName("Tentatica de login sem informar nome")
+    @DisplayName("Tentativa de login sem informar nome")
     public void loginSemInformarUsername() {
         page = new LoginPage(driver);
         users = new Users();
@@ -69,7 +69,7 @@ public class LoginTest extends BaseTest {
     }
 
     @Test
-    @DisplayName("Tentatica de login sem informar a senha")
+    @DisplayName("Tentativa de login sem informar a senha")
     public void loginSemInformarPassword() {
         page = new LoginPage(driver);
         users = new Users();
@@ -85,7 +85,7 @@ public class LoginTest extends BaseTest {
     }
 
     @Test
-    @DisplayName("Tentatica de login com credenciais invalidas")
+    @DisplayName("Tentativa de login com credenciais invalidas")
     public void loginComCredenciaisInvalidas() {
         page = new LoginPage(driver);
         users = new Users();
