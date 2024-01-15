@@ -36,7 +36,7 @@ Para executar os testes por suite:
 
 ## Backlog
 
-A pasta "backlog" contém os seguintes arquivos relacionados ao desenvolvimento:
+A pasta "backlog" contém os seguintes arquivos relacionados ao desenvolvimento do projeto, e o BDD com os casos de testes elencados e automatizados:
 
 - [BDD.md](backlog/BDD.md)
 - [Desenvolvimento Prático – Fase 01.md](backlog/Desenvolvimento%20Pr%C3%A1tico%20%E2%80%93%20Fase%2001.md)
