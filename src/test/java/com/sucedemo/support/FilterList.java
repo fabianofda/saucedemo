@@ -39,7 +39,6 @@ public class FilterList {
             double currentPrice = parsePrice(priceList.get(i));
             double nextPrice = parsePrice(priceList.get(i + 1));
 
-            // Verifica se o preço atual é menor ou igual ao próximo preço
             if (currentPrice < nextPrice) {
                 return false;
             }

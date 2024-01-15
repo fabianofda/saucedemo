@@ -1,6 +1,6 @@
 # Projeto de Automação Saucedemo
 
-Este projeto de automação de testes web usando Java17, Maven, Selenium e JUnit5.
+Este projeto de automação de testes web usando Java, Maven, Selenium e JUnit.
 
 ## Estrutura do Projeto
 
