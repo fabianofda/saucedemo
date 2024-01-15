@@ -1,4 +1,4 @@
-package com.sucedemo.e2e;
+package com.saucedemo.e2e;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -8,10 +8,10 @@ import java.util.List;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.sucedemo.pages.InventoryPage;
-import com.sucedemo.pages.LoginPage;
-import com.sucedemo.support.FilterList;
-import com.sucedemo.support.fixtures.Users;
+import com.saucedemo.pages.InventoryPage;
+import com.saucedemo.pages.LoginPage;
+import com.saucedemo.support.FilterList;
+import com.saucedemo.support.fixtures.Users;
 
 @DisplayName("Suite Inventory")
 public class InventoryTest extends BaseTest {

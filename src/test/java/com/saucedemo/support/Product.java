@@ -1,4 +1,4 @@
-package com.sucedemo.support;
+package com.saucedemo.support;
 
 public class Product {
     private String name;

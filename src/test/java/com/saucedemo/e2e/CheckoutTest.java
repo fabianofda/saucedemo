@@ -1,17 +1,17 @@
-package com.sucedemo.e2e;
+package com.saucedemo.e2e;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.sucedemo.pages.CartPage;
-import com.sucedemo.pages.CheckoutPage;
-import com.sucedemo.pages.InventoryPage;
-import com.sucedemo.pages.LoginPage;
-import com.sucedemo.support.Checkout;
-import com.sucedemo.support.Commons;
-import com.sucedemo.support.fixtures.Users;
+import com.saucedemo.pages.CartPage;
+import com.saucedemo.pages.CheckoutPage;
+import com.saucedemo.pages.InventoryPage;
+import com.saucedemo.pages.LoginPage;
+import com.saucedemo.support.Checkout;
+import com.saucedemo.support.Commons;
+import com.saucedemo.support.fixtures.Users;
 
 
 @DisplayName("Suite Checkout")

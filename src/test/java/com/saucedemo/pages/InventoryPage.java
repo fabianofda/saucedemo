@@ -1,4 +1,4 @@
-package com.sucedemo.pages;
+package com.saucedemo.pages;
 
 import java.util.ArrayList;
 import java.util.List;

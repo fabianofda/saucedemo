@@ -1,4 +1,4 @@
-package com.sucedemo.support.fixtures;
+package com.saucedemo.support.fixtures;
 
 import java.util.HashMap;
 import java.util.Map;

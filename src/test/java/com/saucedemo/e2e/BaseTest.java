@@ -1,5 +1,5 @@
 
-package com.sucedemo.e2e;
+package com.saucedemo.e2e;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

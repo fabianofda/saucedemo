@@ -1,4 +1,4 @@
-package com.sucedemo.support;
+package com.saucedemo.support;
 
 import java.util.List;
 

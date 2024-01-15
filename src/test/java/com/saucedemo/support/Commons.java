@@ -1,4 +1,4 @@
-package com.sucedemo.support;
+package com.saucedemo.support;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

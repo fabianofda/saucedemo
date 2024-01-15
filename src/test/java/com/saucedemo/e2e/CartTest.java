@@ -1,15 +1,15 @@
-package com.sucedemo.e2e;
+package com.saucedemo.e2e;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.sucedemo.pages.CartPage;
-import com.sucedemo.pages.InventoryPage;
-import com.sucedemo.pages.LoginPage;
-import com.sucedemo.support.Product;
-import com.sucedemo.support.fixtures.Users;
+import com.saucedemo.pages.CartPage;
+import com.saucedemo.pages.InventoryPage;
+import com.saucedemo.pages.LoginPage;
+import com.saucedemo.support.Product;
+import com.saucedemo.support.fixtures.Users;
 
 @DisplayName("Suite Cart")
 public class CartTest extends BaseTest {
