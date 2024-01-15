@@ -44,6 +44,12 @@ A pasta "backlog" contém os seguintes arquivos relacionados ao desenvolvimento 
 - [Desenvolvimento Prático – Fase 03.md](backlog/Desenvolvimento%20Pr%C3%A1tico%20%E2%80%93%20Fase%2003.md)
 - [Desenvolvimento Teórico.md](backlog/Desenvolvimento%20Te%C3%B3rico.md)
 
+---
+
+
+![Alt Text](backlog/roadmap.png)
+
+
 
 ## Refencias
 LinkDin e GitHub:
